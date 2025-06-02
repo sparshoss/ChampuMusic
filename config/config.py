@@ -67,7 +67,7 @@ HEROKU_API_KEY = getenv("HEROKU_API_KEY")
 
 UPSTREAM_REPO = getenv(
     "UPSTREAM_REPO",
-    "https://github.com/TheChampu/ChampuMusic",
+    "https://github.com/sparshoss/ChampuMusic",
 )
 UPSTREAM_BRANCH = getenv("UPSTREAM_BRANCH", "main")
 GIT_TOKEN = getenv(
@@ -76,10 +76,10 @@ GIT_TOKEN = getenv(
 
 # Only  Links formats are  accepted for this Var value.
 SUPPORT_CHANNEL = getenv(
-    "SUPPORT_CHANNEL", "https://t.me/akaChampu"
+    "SUPPORT_CHANNEL", "https://t.me/TG_SELLER_ALL_GROUPS_ID"
 )  # Example:- https://t.me/akaChampu
 SUPPORT_GROUP = getenv(
-    "SUPPORT_GROUP", "https://t.me/TheChampuClub"
+    "SUPPORT_GROUP", "https://t.me/+oZARHz9Uvvg5NzM1"
 )  # Example:- https://t.me/TheChampuClub
 # Set it in True if you want to leave your assistant after a certain amount of time. [Set time via AUTO_LEAVE_ASSISTANT_TIME]
 AUTO_LEAVING_ASSISTANT = getenv("AUTO_LEAVING_ASSISTANT", True)
@@ -146,7 +146,7 @@ STRING5 = getenv("STRING_SESSION5", None)
 #   ██║░░╚═╝███████║███████║██╔████╔██║██████╔╝██║░░░██║
 #   ██║░░██╗██╔══██║██╔══██║██║╚██╔╝██║██╔═══╝░██║░░░██║
 #   ╚█████╔╝██║░░██║██║░░██║██║░╚═╝░██║██║░░░░░╚██████╔╝
-#   ░╚════╝░╚═╝░░╚═╝╚═╝░░╚═╝╚═╝░░░░░╚═╝╚═╝░░░░░░╚═════╝░     
+#   ░╚════╝░╚═╝░░╚═╝╚═╝░░╚═╝╚═╝░░░░░╚═╝╚═╝░░░░░░╚═════╝░    
 
 
 
